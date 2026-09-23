@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Campus and local event discovery, registration, QR ticketing, and check-in platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
